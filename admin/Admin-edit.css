@@ -1,0 +1,82 @@
+.row{
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 24px;
+    width: 934px;
+    margin-left: 315px;
+    height: 56px;
+    border-radius: 4px;
+}
+.row h1{
+    padding: 8px;
+}
+.card-body
+{
+    border: 2px solid black;
+    width: 854px;
+    height: 244px;
+    margin:auto;
+    margin-top: 34px;
+    display: grid;
+    grid-template-columns: 426px 349px;
+    grid-template-rows: 95px 65px;
+    justify-content: center;
+    align-content: center;
+    margin-left: 360px;
+    background-color: white;
+    grid-column-gap: 23px;
+    grid-row-gap: 13px;
+}
+.row2{
+    /* border: 2px solid black; */
+    font-size: 23px;
+}
+.row3{
+    /* border: 2px solid black; */
+    font-size: 23px;
+}
+.row4{
+    /* border: 2px solid black; */
+    font-size: 23px;
+}
+.row5{
+    /* border: 2px solid black; */
+    font-size: 23px;
+}
+.row2 input{
+    height: 29px;
+    width: 268px;
+    font-size: 15px;
+    margin-left: 41px;
+}
+.row3 input{
+    height: 29px;
+    width: 268px;
+    font-size: 15px;
+}
+.row4 input{
+    height: 29px;
+    width: 268px;
+    font-size: 15px;
+    margin-left: 10px;
+}
+.row5{
+    /* border: 2px solid black; */
+    font-size: 23px;
+}
+button{
+    width: 100px;
+    border: 2px solid black;
+    margin-left: 23px;
+    height: 35px;
+    font-size: 15px;
+    background-color: gray;
+    color: white;
+}
+button:hover{
+    font-weight: bold;
+    background-color: black;
+
+}

@@ -1,0 +1,77 @@
+body{
+    background-color: #eeee;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.nameofshop{
+    text-align: center;
+    color: palevioletred;
+    font-size: 25px;
+    margin-left: 26px;
+}
+.login{
+    border: 2px solid black;
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+    width: 25em;
+    height: 60px;
+    margin-left: 561px;
+    border-bottom-color: gray;
+    background-color: #852e6a;
+    color: white;
+}
+.form{
+    border: 2px solid black;
+    border-radius: 0px 0px 10px 10px;
+    text-align: center;
+    width: 25em;
+    height: 250px;
+    margin-left: 561px;
+    border-top-color: gray;
+    background-color: white;
+}
+.container{
+    margin-top: 30px;
+    margin-left: 28px;
+    font-size: 23px;
+}
+#Email{
+    width: 190px;
+    margin-bottom: 14px;
+    height: 24px;
+    margin-left: 25px;
+    padding-left: 12px;
+    border-radius: 14px;
+}
+.container2{
+    margin-top: 10px;
+    font-size: 23px;
+}
+#Password{
+    width: 190px;
+    margin-bottom: 14px;
+    height: 24px;
+    margin-left: 25px;
+    padding-left: 12px;
+    border-radius: 14px;
+}
+.container3{
+    margin: 10px 0px 0px 17px;
+}
+#btn{
+    width: 80px;
+    height: 30px;
+    border-radius: 14px;
+    font-size: initial;
+}
+.container4{
+    margin-top: 20px;
+    margin-left: 65px;
+    font-size: larger;
+}
+.container4 a{
+    text-decoration: none;
+}
+#btn:hover{
+    background-color: #852e6a;
+    color: white;
+}

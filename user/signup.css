@@ -1,0 +1,116 @@
+body{
+    background-color: #eeee;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.nameofshop{
+    text-align: center;
+    color: palevioletred;
+    font-size: 25px;
+    margin-left: 26px;
+}
+.login{
+    border: 2px solid black;
+    border-radius: 10px 10px 0px 0px;
+    text-align: center;
+    width: 25em;
+    height: 60px;
+    margin-left: 561px;
+    border-bottom-color: gray;
+    padding-bottom: 15px;
+    background-color: #852e6a;
+    color: white;
+}
+.form{
+    border: 2px solid black;
+    border-radius: 0px 0px 10px 10px;
+    text-align: center;
+    width: 25em;
+    height: 302px;
+    margin-left: 561px;
+    border-top-color: gray;
+    background-color: white;
+}
+.container1{
+    margin-top: 30px;
+    margin-left: 28px;
+    font-size: 20px;
+}
+#full_name{
+    width:200px;
+    margin-bottom: 14px;
+    height: 24px;
+    padding-left: 12px;
+    border-radius: 17px;
+    border-color: black;
+    margin-left: 20px;
+}
+.container2{
+    display: inline-block;
+    margin-top: 0px;
+    margin-left: 59px;
+    font-size: 20px;
+}
+#e_mail{
+    width:200px;
+    margin-bottom: 14px;
+    height: 23px;
+    margin-left: 20px;
+    padding-left: 12px;
+    border-radius: 17px;
+    border-color: black;
+}
+.container3{
+    margin-top: 0px;
+    margin-left: 34px;
+    font-size: 20px;
+}
+#p_no{
+    width:200px;
+    margin-bottom: 14px;
+    height: 24px;
+    margin-left: 20px;
+    padding-left: 12px;
+    border-radius: 17px;
+    border-color: black;
+}
+.container4{
+    margin-top: 0px;
+    margin-left: 42px;
+    font-size: 20px;
+}
+#address{
+    width:200px;
+    margin-bottom: 14px;
+    height: 24px;
+    margin-left: 15px;
+    padding-left: 12px;
+    border-radius: 17px;
+    border-color: black;
+}
+.container5{
+    margin-top: 0px;
+    margin-left: 29px;
+    font-size: 20px;
+}
+#Password{
+    width:200px;
+    margin-bottom: 14px;
+    height: 24px;
+    margin-left: 15px;
+    padding-left: 12px;
+    border-radius: 17px;
+    border-color: black;
+}
+.container6{
+    margin: 10px 0px 0px 17px;
+}
+#btn{
+    width: 80px;
+    height: 30px;
+    border-radius: 14px;
+    font-size: initial;
+}
+#btn:hover{
+    background-color: #852e6a;
+    color: white;
+}

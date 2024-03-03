@@ -1,0 +1,14 @@
+Name: Roopali Kosta
+Class: BCA 3rd Year
+Admission No.: 47105
+Project : Online Bakery Management System
+
+Database name : bakery management
+
+Admin:
+email:kostaprabha@gmail.com
+password: 12345
+
+customer:
+email:kostaroopali@gmail.com
+password: 12345678
